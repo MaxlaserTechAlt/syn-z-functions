@@ -64,10 +64,46 @@ syn.protect_gui(
 )
 ```
 
+## -- syn.protect_gui --
+### unProtects your gui from findfirstchild attacks yap yap yap yap
+```lua
+syn.unprotect_gui(
+    --> Instance <--
+)
+```
+
 ## -- syn.clear_teleport_queue --
 ### the name explains itself
 ```lua
 syn.clear_teleport_queue(
     --> string <--
 )
+```
+
+## -- syn.get_thread_identity --
+### gets the executor identity which is probably fake 💤, Arguments
+```lua
+syn.get_thread_identity()
+```
+
+# \\/
+
+## -- niggaballs --
+### returns empty string, Arguments
+```lua
+No Arguments
+```
+
+## -- just_setidentity --
+### force fully sets the executor identity
+```lua
+just_setidentity(
+    --> number <--
+)
+```
+
+## -- catballs --
+## returns an empty string, Arguments
+```lua
+No arguments
 ```
