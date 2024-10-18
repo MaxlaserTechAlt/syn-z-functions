@@ -17,7 +17,7 @@ syn.toast_notification({
 ## -- syn.rpc --
 
 ## -- syn.rpc.set --
-### Custom rich presence for your discord (only works on bloxstrap uhh i think!!!), Arguments:
+### Custom rich presence for your discord (bloxstrap is not needed), Arguments:
 
 ```lua
 
