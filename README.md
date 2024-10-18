@@ -6,10 +6,12 @@
 ## syn.toast_notification
 ### Creates a custom notification, Arguments:
 ```lua
-Type -- Icon types
-Name -- Title name
-Text -- Description Text
-Duration -- the name explains itself
+syn.toast_notification({
+    Type -- Icon types
+    Name -- Title name
+    Text -- Description Text
+    Duration -- the name explains itself
+})
 ```
 
 ## -- syn.rpc --
