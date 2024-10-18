@@ -89,13 +89,13 @@ syn.get_thread_identity()
 # \\/
 
 ## -- niggaballs --
-### creates a black balls on your character's dick
+### creates black balls on your character's dick, Arguments
 ```lua
 No Arguments
 ```
 
 ## -- just_setidentity --
-### force fully sets the executor identity
+### force fully sets the executor identity, Arguments
 ```lua
 just_setidentity(
     --> number <--
@@ -103,7 +103,20 @@ just_setidentity(
 ```
 
 ## -- catballs --
-## creates a cat balls on your character's dick
+### creates cat balls on your character's dick, Arguments
 ```lua
 No arguments
 ```
+
+## -- balls --
+### creates white balls on your character's dick, Arguments
+```lua
+No Argments
+```
+
+## -- cansignalreplicate --
+### 203458it9ewugjdvipklmjeryguhjiob, Arguments
+```lua
+cansignalreplicate(
+    --> script signal <--
+)```
