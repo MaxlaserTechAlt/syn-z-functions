@@ -1,7 +1,7 @@
 # All Synapse Z Custom Functions & How to use it!!
 
 ## All Functions
-##      \//
+##      \\/
 
 ## syn.toast_notification
 ### Creates a custom notification, Arguments:
@@ -45,7 +45,7 @@ syn.rpc.set({
 ```lua
 No Arguments
 ```
-# \//
+# \\/
 
 ## -- syn.killprocess --
 
