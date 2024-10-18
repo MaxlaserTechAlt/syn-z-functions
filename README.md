@@ -1,4 +1,4 @@
-# All Synapse Z Custom Functions & How to use it!!
+# best synapse z docs incase you dont know how to use them
 
 ## All Functions
 ##      \\/
@@ -7,10 +7,10 @@
 ### Creates a custom notification, Arguments:
 ```lua
 syn.toast_notification({
-    Type -- Icon types
-    Name -- Title name
-    Text -- Description Text
-    Duration -- the name explains itself
+    Type: number -- Icon types
+    Name: string -- Title name
+    Text: string -- Description Text
+    Duration: number -- the name explains itself
 })
 ```
 
@@ -22,22 +22,22 @@ syn.toast_notification({
 ```lua
 
 syn.rpc.set({
-    ApplicationId = "", -- most important yet, you need to create an application on discord.dev then get the app id
-    State = "", -- displays what are you doing currently
-    Details = "", -- more detail about the stuff you are doing.
-    StartTimestamp = 1, -- useless
-    EndTimestamp = 0, -- useless
-    LargeImageKey = "", -- useless
-    LargeImageText = "", -- useless
-    SmallImageKey = "", -- useless
-    SmallImageText = "", -- useless
-    PartyId = "", -- idk how tto use this zzzzzzz
-    PartySize = 0, -- useless
-    PartyMax = 0, -- useless
-    MatchSecret = "", -- useless
-    JoinSecret = "", -- useless
-    SpectateSecret = "", -- useless
-    Instance = 0 -- roblox instances i thinK!!!!!!!
+    ApplicationId: string -- most important yet, you need to create an application on discord.dev then get the app id
+    State: string -- displays what are you doing currently
+    Details: string -- more detail about the stuff you are doing.
+    StartTimestamp: number -- useless
+    EndTimestamp: number -- useless
+    LargeImageKey: string -- useless
+    LargeImageText: string -- useless
+    SmallImageKey: string -- useless
+    SmallImageText: string -- useless
+    PartyId; string -- party id
+    PartySize: number -- party size
+    PartyMax: number -- party maximum size
+    MatchSecret: string -- useless
+    JoinSecret: string -- useless
+    SpectateSecret: string -- useless
+    Instance: number -- roblox instances
 })
 
 ```
@@ -64,7 +64,7 @@ syn.protect_gui(
 )
 ```
 
-## -- syn.protect_gui --
+## -- syn.unprotect_gui --
 ### unProtects your gui from findfirstchild attacks yap yap yap yap
 ```lua
 syn.unprotect_gui(
@@ -119,4 +119,13 @@ No Argments
 ```lua
 cansignalreplicate(
     --> script signal <--
-)```
+)
+```
+
+## -- getfpscap --
+### returns the current fpscap (broken function), Arguments
+```lua
+No Arguments
+```
+
+
