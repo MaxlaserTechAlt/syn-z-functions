@@ -89,7 +89,7 @@ syn.get_thread_identity()
 # \\/
 
 ## -- niggaballs --
-### uhhhhhhhhhhhhhhhhhh
+### creates a black balls on your character's dick
 ```lua
 No Arguments
 ```
@@ -103,7 +103,7 @@ just_setidentity(
 ```
 
 ## -- catballs --
-## cat balls around your character
+## creates a cat balls on your character's dick
 ```lua
 No arguments
 ```
