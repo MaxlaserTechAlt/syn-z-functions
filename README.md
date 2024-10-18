@@ -31,7 +31,7 @@ syn.rpc.set({
     LargeImageText: string -- useless
     SmallImageKey: string -- useless
     SmallImageText: string -- useless
-    PartyId; string -- party id
+    PartyId: string -- party id
     PartySize: number -- party size
     PartyMax: number -- party maximum size
     MatchSecret: string -- useless
