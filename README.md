@@ -89,7 +89,7 @@ syn.get_thread_identity()
 # \\/
 
 ## -- niggaballs --
-### returns empty string, Arguments
+### uhhhhhhhhhhhhhhhhhh
 ```lua
 No Arguments
 ```
@@ -103,7 +103,7 @@ just_setidentity(
 ```
 
 ## -- catballs --
-## returns an empty string, Arguments
+## cat balls around your character
 ```lua
 No arguments
 ```
