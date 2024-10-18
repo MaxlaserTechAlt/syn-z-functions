@@ -31,13 +31,13 @@ syn.rpc.set({
     LargeImageText: string -- useless
     SmallImageKey: string -- useless
     SmallImageText: string -- useless
-    PartyId: string -- party id
+    PartyId: string -- party id (you can get it from discord.com/developers/applications/urappid/rich-presence/visualizer)
     PartySize: number -- party size
     PartyMax: number -- party maximum size
-    MatchSecret: string -- useless
-    JoinSecret: string -- useless
-    SpectateSecret: string -- useless
-    Instance: number -- roblox instances
+    MatchSecret: string -- idk
+    JoinSecret: string -- idk
+    SpectateSecret: string -- idk
+    Instance: number -- roblox instances i think idk
 })
 
 ```
